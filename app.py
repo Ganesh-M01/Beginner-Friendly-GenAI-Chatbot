@@ -317,21 +317,30 @@ Return only the rewritten question.""",
 rewrite_chain = rewrite_prompt | model | StrOutputParser()
 
 
+
 answer_prompt = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            """You are a conversational company knowledge assistant.
+            """You are a helpful and conversational company knowledge assistant.
 
-Use conversation history to understand follow-up questions
-and recall previous messages.
+Your task is to answer the user's actual question using the
+provided document context and conversation history.
 
-Use retrieved document context for company-specific facts.
-If the requested company information is not in the context,
-say that it could not be found in the provided documents.
-Do not invent company facts.
+Rules:
+1. Always address the user's actual request.
+2. If the user asks to summarize, summarize the relevant information
+   available in the context directly.
+3. If the context contains general company information, provide
+   a useful overview instead of claiming that information is missing.
+4. If only some information is available, summarize what is available
+   and clearly mention any specific gaps.
+5. Never invent facts or claim that information is unavailable
+   when the context actually contains it.
+6. Use clear, natural language and avoid unnecessary disclaimers.
+7. For company-specific facts, rely on the retrieved context.
 
-Retrieved context:
+Retrieved document context:
 {context}""",
         ),
         MessagesPlaceholder("chat_history"),

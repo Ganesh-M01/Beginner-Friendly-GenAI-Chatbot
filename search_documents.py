@@ -5,31 +5,29 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
 project_dir = Path(__file__).parent
-database_path = project_dir / "chroma_db"
 
-# Use the same embedding model used during indexing
 embeddings = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
-# Load the existing vector store
 vector_store = Chroma(
     collection_name="company_documents",
     embedding_function=embeddings,
-    persist_directory=str(database_path)
+    persist_directory=str(project_dir / "chroma_db"),
 )
 
-# Ask a question
-question = input("Ask a question about the company: ")
+queries = [
+    "Summarize the available company information",
+    "What is Syzy Technologies and what services does it provide?",
+    "What company projects are listed?",
+]
 
-# Retrieve the three most relevant chunks
-results = vector_store.similarity_search(
-    question,
-    k=3
-)
+for query in queries:
+    print(f"\n{'=' * 60}")
+    print("QUERY:", query)
 
-print("\nRelevant document chunks:")
+    results = vector_store.similarity_search(query, k=5)
 
-for index, document in enumerate(results, start=1):
-    print(f"\n--- Result {index} ---")
-    print(document.page_content)
+    for index, document in enumerate(results, start=1):
+        print(f"\n--- Result {index} ---")
+        print(document.page_content)
