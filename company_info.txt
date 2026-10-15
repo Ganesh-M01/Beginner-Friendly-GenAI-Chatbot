@@ -1,10 +1,14 @@
 
-# Syzy Technologies — Company Information
+# Syzy Technologies — Company Information and Project Directory
 
-## Company Overview
+## 1. Company Overview
+
 Syzy Technologies Private Limited is an IT services and IT consulting company based in Salem, Tamil Nadu, India. Its public company profile describes providing software solutions to businesses and helping small and medium-sized enterprises establish their digital presence.
 
-## Company Details
+This document contains general company information and a preliminary directory of projects and modules listed in the company's Confluence Projects section. Project-specific technical details must be verified against the corresponding internal documentation.
+
+## 2. Company Details
+
 Company Name: Syzy Technologies Private Limited
 Industry: Information Technology and IT Services
 Business Type: Privately Held
@@ -13,35 +17,329 @@ Headquarters: Salem, Tamil Nadu, India
 Website: https://www.syzytechnologies.com
 LinkedIn: https://in.linkedin.com/company/syzy-technologies
 
-## Services
+## 3. Services
+
 Syzy Technologies publicly lists web applications, cloud services, and client-based services among its areas of specialization.
 
-### Web Applications
+### 3.1 Web Applications
+
 Web applications allow users to access software and digital services through web browsers. They can support business processes, customer interactions, and online services.
 
-### Cloud Services
+### 3.2 Cloud Services
+
 Cloud services provide access to computing resources, infrastructure, platforms, and software over the internet. They can help businesses deploy and scale digital applications.
 
-### Client-Based Software Services
+### 3.3 Client-Based Software Services
+
 The company provides software solutions for business clients to support their digital operations and online presence.
 
-## Business Objectives
+## 4. Business Objectives
+
 The company's public profile highlights helping small and medium-sized businesses participate in the digital marketplace and improve their ability to compete online.
 
-## Technology and AI Context
+## 5. Company Projects and Modules
+
+The following project names were identified from the Projects section of the company's Confluence interface.
+
+Important: This is a preliminary project directory based on visible project names. The presence of a project in the directory does not establish whether it is completed, currently in development, on hold, or discontinued.
+
+Individual project descriptions, objectives, modules, technology stacks, architectures, and implementation details should be added from their corresponding Confluence documentation.
+
+### 5.1 Food Application Module Overview
+
+Project or documentation entry: Food Application Module Overview.
+
+The title indicates documentation related to a food application module. The specific features, requirements, implementation, and technology stack have not been verified.
+
+### 5.2 Sandhai
+
+Project name: Sandhai.
+
+The project's purpose, business requirements, modules, and technology stack have not been verified.
+
+### 5.3 Rotary Means Business Fellowship
+
+Project name: Rotary Means Business Fellowship.
+
+The project's objectives, business requirements, functional modules, and implementation details have not been verified.
+
+### 5.4 School Diary Business Requirement
+
+Documentation entry: School Diary Business Requirement.
+
+The title indicates business-requirement documentation related to a school diary system. Its actual requirements, features, users, and implementation details have not been verified.
+
+### 5.5 Cloud Forest - Project Requirements
+
+Documentation entry: Cloud Forest - Project Requirements.
+
+The title indicates project-requirement documentation. The detailed requirements, modules, technologies, and project status have not been verified.
+
+### 5.6 CK Associates
+
+Project name: CK Associates.
+
+The project's business purpose, features, technology stack, and development status have not been verified.
+
+### 5.7 JMC (ABM ERP)
+
+Project name: JMC (ABM ERP).
+
+The project name includes the abbreviation ERP. Its specific business functions, modules, integrations, and implementation details have not been verified.
+
+### 5.8 Suvaiyum Manamum
+
+Project name: Suvaiyum Manamum.
+
+The project's purpose, functional requirements, modules, and technology stack have not been verified.
+
+### 5.9 Food Outlet
+
+Project or module name: Food Outlet.
+
+The specific business requirements, functionality, architecture, and implementation details have not been verified.
+
+### 5.10 CRM
+
+Project or module name: CRM.
+
+CRM commonly stands for Customer Relationship Management. However, the specific functionality, features, integrations, and implementation of this company's CRM project have not been verified.
+
+### 5.11 RMB Market Place
+
+Project name: RMB Market Place.
+
+The project's business purpose, marketplace functionality, users, modules, and technology stack have not been verified.
+
+### 5.12 Mattress
+
+Project name: Mattress.
+
+The project's purpose, business requirements, functional modules, and implementation details have not been verified.
+
+### 5.13 Invoice Module
+
+Module name: Invoice Module.
+
+The title indicates an invoicing-related module. Its specific functionality, billing workflows, payment integrations, and implementation details have not been verified.
+
+### 5.14 Project - Moksha
+
+Project name: Moksha.
+
+The project's objectives, requirements, modules, and technology stack have not been verified.
+
+### 5.15 IPark
+
+Project name: IPark.
+
+The project's business purpose, functionality, architecture, and technology stack have not been verified.
+
+### 5.16 Business In Rotary
+
+Project name: Business In Rotary.
+
+The project's purpose, target users, features, modules, and implementation details have not been verified.
+
+### 5.17 HMS
+
+Project name: HMS.
+
+The acronym may have different meanings depending on the project context. Its expansion, business purpose, functionality, and technology stack have not been verified.
+
+### 5.18 Institute
+
+Project name: Institute.
+
+The project's objectives, target users, functional modules, and implementation details have not been verified.
+
+### 5.19 Patient Management Software
+
+Project name: Patient Management Software.
+
+The title indicates software related to patient management. Its actual features, workflows, integrations, data model, and technology stack have not been verified.
+
+### 5.20 PMIS
+
+Project name: PMIS (Project Management Information System, as displayed in the visible listing).
+
+The project's detailed requirements, functionality, reporting capabilities, modules, and implementation details have not been verified.
+
+### 5.21 Prabha Aggro
+
+Project name: Prabha Aggro.
+
+The project's purpose, business requirements, modules, and technology stack have not been verified.
+
+### 5.22 Subscription Micro UI Module
+
+Module name: Subscription Micro UI Module.
+
+The title indicates a subscription-related micro-UI module. Its specific functionality, integration points, architecture, and technology stack have not been verified.
+
+### 5.23 App Host
+
+Project or module name: App Host.
+
+The project's purpose, hosting responsibilities, architecture, and implementation details have not been verified.
+
+### 5.24 Payment Micro Module
+
+Module name: Payment Micro Module.
+
+The title indicates a payment-related module. Its payment workflows, supported gateways, security mechanisms, and implementation details have not been verified.
+
+### 5.25 Event
+
+Project or module name: Event.
+
+The project's purpose, event-related functionality, modules, and technology stack have not been verified.
+
+### 5.26 Tax Micro Module
+
+Module name: Tax Micro Module.
+
+The title indicates a tax-related module. Its tax calculations, jurisdictional requirements, integrations, and implementation details have not been verified.
+
+### 5.27 Micro-UI
+
+Project or module name: Micro-UI.
+
+The project's architectural design, component responsibilities, integrations, and technology stack have not been verified.
+
+### 5.28 CodeGen
+
+Project or module name: CodeGen.
+
+The project's purpose, code-generation functionality, supported languages, architecture, and implementation details have not been verified.
+
+### 5.29 Attendance Management Module
+
+Module name: Attendance Management Module.
+
+The title indicates an attendance-related module. Its attendance workflows, user roles, reporting features, integrations, and technology stack have not been verified.
+
+### 5.30 Learning Management System
+
+Project or module name: Learning Management System.
+
+The title indicates a learning-management-related system. Its course-management features, user roles, learning workflows, and implementation details have not been verified.
+
+### 5.31 BIR (Rotary Biz)
+
+Project name: BIR (Rotary Biz).
+
+The project's full name, business objectives, modules, integrations, and technology stack have not been verified.
+
+### 5.32 Inventory Micro Module
+
+Module name: Inventory Micro Module.
+
+The title indicates an inventory-related module. Its inventory workflows, stock-management features, integrations, and implementation details have not been verified.
+
+### 5.33 FlowFlux
+
+Project name: FlowFlux.
+
+The project's purpose, functionality, modules, architecture, and technology stack have not been verified.
+
+### 5.34 LaunchPad
+
+Project name: LaunchPad.
+
+The project's business purpose, functionality, users, and implementation details have not been verified.
+
+### 5.35 FlowPulse
+
+Project name: FlowPulse.
+
+The project's objectives, features, modules, architecture, and technology stack have not been verified.
+
+## 6. Project Status and Development Lifecycle
+
+The Confluence Projects section contains multiple project and module entries.
+
+Some projects may be completed, while others may still be in progress. The available screenshots do not identify the status of each individual project.
+
+Do not assume a project is active or completed based solely on its presence in the Projects section.
+
+To establish accurate project status, consult the relevant Confluence page or an authorized project representative.
+
+Recommended metadata for each project:
+
+- Project name
+- Project description
+- Business domain
+- Current status
+- Project objectives
+- Functional modules
+- Technology stack
+- Frontend technologies
+- Backend technologies
+- Database technologies
+- APIs and integrations
+- Deployment infrastructure
+- Architecture and design
+- Requirements and constraints
+- Known issues and limitations
+- Documentation source URL
+- Last verified date
+
+## 7. Technology and AI Context
+
 Python, APIs, cloud platforms, and Generative AI are technologies commonly used in modern software development. They can support application development, automation, and AI-powered solutions.
 
-Note: These technologies are general examples and are not a verified list of Syzy Technologies' internal technology stack.
+These technologies are general examples and are not a verified list of Syzy Technologies' internal technology stack.
 
-## Location
-Salem, Tamil Nadu, India.
+The technologies used in individual company projects must be obtained from their corresponding documentation.
 
-## Information Limitations
-This document summarizes general information from public company sources. Specific internal projects, current AI initiatives, production technologies, employee responsibilities, and internal systems have not been independently verified. Add such information only when confirmed through official company documentation or an authorized company representative.
+Do not associate a technology with a specific project unless it is confirmed by an authorized source.
 
-## Public Sources
-Company LinkedIn Profile:
-https://in.linkedin.com/company/syzy-technologies
+## 8. How to Answer Project-Related Questions
+
+When answering questions about company projects:
+
+1. Use the available project documentation as the primary source of truth.
+2. Distinguish confirmed facts from information that has not been verified.
+3. Do not invent project features, technologies, requirements, or completion status.
+4. If a project's detailed documentation is unavailable, state that the information could not be found in the available documents.
+5. When multiple projects have similar names or abbreviations, identify the relevant project using its documented context.
+6. Use the original project and module names as written in company documentation.
+7. Prefer project-specific documentation over general industry knowledge.
+8. When source URLs are available, preserve them so users can open the original documentation.
+
+## 9. Information Limitations
+
+This document combines general information from public company sources with a preliminary directory of project names visible in the company's Confluence Projects section.
+
+The directory does not contain verified internal project specifications.
+
+The following information remains unverified unless confirmed by additional company documentation:
+
+- Detailed project descriptions
+- Project completion and development status
+- Individual project technology stacks
+- Functional and technical requirements
+- Software architecture
+- Module responsibilities
+- API contracts and integrations
+- Database schemas
+- Deployment environments
+- Internal AI initiatives
+- Employee responsibilities
+- Production systems and operational workflows
+
+This document should be updated as authorized project documentation becomes available.
+
+## 10. Public Company Sources
 
 Company Website:
 https://www.syzytechnologies.com
+
+Company LinkedIn Profile:
+https://in.linkedin.com/company/syzy-technologies
+
+Internal Project Documentation:
+Refer to the corresponding authorized pages in the company's Confluence Projects section.
+
+Note: Internal Confluence URLs should be added to individual project entries when available.
